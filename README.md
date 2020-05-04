@@ -5,22 +5,25 @@ Application designs related stuff
 
 ### iOS
 
-** Home Screen **
+**Home Screen**
 
 <img src="/../umur-draft/screenshots/iOS-Home@2x.png?raw=true" width="454">
 
 
-** Admin / Management **
+**Admin / Management**
+
 <img src="/../umur-draft/screenshots/iOS-Admin@2x.png?raw=true" width="1345">
 
 ### Web
 
-** Home Screen **
+**Home Screen**
 
 <img src="/../umur-draft/screenshots/Web-Home@2x.png?raw=true" width="1440">
 
-** Admin / Management **
-
+**Admin / Management**
+<p>
 <img src="/../umur-draft/screenshots/Web-Admin@2x.png?raw=true" width="1440">
-
+</p>
+<p>
 <img src="/../umur-draft/screenshots/Web-Admin-EditSpace@2x.png?raw=true" width="1440">
+</p>
