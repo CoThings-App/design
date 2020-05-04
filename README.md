@@ -7,23 +7,23 @@ Application designs related stuff
 
 **Home Screen**
 
-<img src="/../umur-draft/screenshots/iOS-Home@2x.png?raw=true" width="454">
+<img src="screenshots/iOS-Home@2x.png?raw=true" width="454">
 
 
 **Admin / Management**
 
-<img src="/../umur-draft/screenshots/iOS-Admin@2x.png?raw=true" width="1345">
+<img src="screenshots/iOS-Admin@2x.png?raw=true" width="1345">
 
 ### Web
 
 **Home Screen**
 
-<img src="/../umur-draft/screenshots/Web-Home@2x.png?raw=true" width="1440">
+<img src="screenshots/Web-Home@2x.png?raw=true" width="1440">
 
 **Admin / Management**
 <p>
-<img src="/../umur-draft/screenshots/Web-Admin@2x.png?raw=true" width="1440">
+<img src="screenshots/Web-Admin@2x.png?raw=true" width="1440">
 </p>
 <p>
-<img src="/../umur-draft/screenshots/Web-Admin-EditSpace@2x.png?raw=true" width="1440">
+<img src="screenshots/Web-Admin-EditSpace@2x.png?raw=true" width="1440">
 </p>
