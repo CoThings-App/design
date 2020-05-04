@@ -7,20 +7,20 @@ Application designs related stuff
 
 ** Home Screen **
 
-![](/screenshots/iOS-Home.png)
+![](/../umur-draft/screenshots/iOS-Home.png?raw=true)
 
 
 ** Admin / Management **
-![](/screenshots/iOS-Admin.png)
+![](/../umur-draft/screenshots/iOS-Admin.png?raw=true)
 
 ### Web
 
 ** Home Screen **
 
-![](/screenshots/Web-Home.png)
+![](/../umur-draft/screenshots/Web-Home.png?raw=true)
 
 ** Admin / Management **
 
-![](/screenshots/Web-Admin.png)
+![](/../umur-draft/screenshots/Web-Admin.png?raw=true)
 
-![](/screenshots/Web-Admin-EditSpace.png)
+![](/../umur-draft/screenshots/Web-Admin-EditSpace.png?raw=true)
